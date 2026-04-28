@@ -1,0 +1,20 @@
+{
+  "topics": [
+    "Building with AI",
+    "Automation with AI"
+  ],
+  "min_followers": 1000,
+  "min_hunts": 10,
+  "activity_days": 90,
+  "categories": [
+    "AI",
+    "developer tools",
+    "SaaS",
+    "productivity"
+  ],
+  "priority_threshold": 80,
+  "secondary_threshold": 60,
+  "search_mode": "topics",
+  "batch_size": 50,
+  "getxapi_key_name": "GETXAPI_KEY"
+}
